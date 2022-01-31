@@ -1,0 +1,29 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabkaines/calculator-js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Testing"
+  ],
+  "author": "Ines Tabka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabkaines/calculator-js/issues"
+  },
+  "homepage": "https://github.com/tabkaines/calculator-js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.4.7"
+  }
+}
